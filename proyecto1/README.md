@@ -11,3 +11,4 @@ Some techniques used:
 - Volume amplification
 
 AUP3 file link: https://drive.google.com/file/d/1b3uydLctheWWs5VnFZojUzFjLS9tW-nY/view?usp=sharing
+Video file link: https://drive.google.com/file/d/11Ai9CY94KvEjXQC-umZ0F_953kvsMCOP/view?usp=sharing
